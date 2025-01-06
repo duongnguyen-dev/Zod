@@ -1,0 +1,9 @@
+[submodule "ZodDP"]
+	path = ZodDP
+	url = https://github.com/duongnguyen-dev/ZodDP.git
+[submodule "ZodTP"]
+	path = ZodTP
+	url = https://github.com/duongnguyen-dev/ZodTP.git
+[submodule "ZodSP"]
+	path = ZodSP
+	url = https://github.com/duongnguyen-dev/ZodSP.git
